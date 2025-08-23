@@ -3,7 +3,7 @@ Welcome to the SMS Messaging Systems documentation repository. This documentatio
 
 ## Contents
 
-- [Types of SMS and How They Work](1_Types_of_SMS_and_How_They_Work)
+- [Types of SMS and How They Work](1_Types_of_SMS_and_How_They_Work.md)
 - Two-Way SMS System
   - [Overview](2_Two_Way_SMS_System/overview)
   - [Types of Two-Way SMS](2_Two_Way_SMS_System/types_of_two_way_sms)
