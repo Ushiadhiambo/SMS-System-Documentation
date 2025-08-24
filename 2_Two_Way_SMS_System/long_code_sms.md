@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Your Page Title Here
+---
+
 # Long Code (Virtual Number) Two-Way SMS
 
 Businesses acquire dedicated phone numbers for conversation-style SMS.

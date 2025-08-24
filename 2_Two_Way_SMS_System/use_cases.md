@@ -1,3 +1,7 @@
+---
+layout: default
+title: Your Page Title Here
+---
 # Two-Way SMS Use Cases
 
 ## Customer Support

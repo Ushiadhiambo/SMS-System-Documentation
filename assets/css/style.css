@@ -1,0 +1,90 @@
+/* Reset some default spacing */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f3f6fb;
+  color: #222;
+}
+
+/* Style links */
+a {
+  color: #007ACC;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation bar */
+nav {
+  background-color: #007ACC;
+  border-radius: 8px;
+  padding: 12px 20px;
+  margin-bottom: 30px;
+}
+nav a {
+  color: white;
+  font-weight: bold;
+  margin-right: 20px;
+}
+nav a:hover {
+  color: #cce4f7;
+}
+
+/* Headings */
+h1 {
+  color: #004a75;
+  border-bottom: 3px solid #007ACC;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+h2, h3 {
+  color: #005a9e;
+  margin-bottom: 12px;
+}
+
+/* Paragraph and lists spacing */
+p, ul, ol {
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+/* Blockquotes */
+blockquote {
+  margin: 20px 0;
+  padding-left: 15px;
+  color: #555;
+  border-left: 4px solid #007ACC;
+  background-color: #def0fc;
+}
+
+/* Code blocks */
+pre {
+  background-color: #1e1e1e;
+  color: #dcdcdc;
+  padding: 15px;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-family: Consolas, monospace;
+  font-size: 14px;
+}
+
+/* Inline code */
+code {
+  background-color: #eee;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: Consolas, monospace;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 50px;
+  color: #777;
+  font-size: 0.9em;
+  border-top: 1px solid #ddd;
+  padding-top: 15px;
+}

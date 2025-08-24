@@ -1,3 +1,7 @@
+---
+layout: default
+title: Your Page Title Here
+---
 # Types of SMS and How They Work
 
 SMS (Short Message Service) messages can be categorized based on their directionality, purpose, and interactivity.
@@ -29,3 +33,4 @@ SMS (Short Message Service) messages can be categorized based on their direction
 - **Example:** Sales campaign announcements.
 
 ---
+

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Your Page Title Here
+---
 # Short Code Two-Way SMS
 
 Businesses rent a short number (e.g., 12345) to handle incoming SMS.

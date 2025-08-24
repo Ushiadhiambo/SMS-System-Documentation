@@ -1,3 +1,7 @@
+---
+layout: default
+title: Your Page Title Here
+---
 # Types of Two-Way SMS
 
 ## 1. Short Code Two-Way SMS
