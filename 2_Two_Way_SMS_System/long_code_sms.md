@@ -1,8 +1,4 @@
 
----
-layout: default
-title: Your Page Title Here
----
 
 # Long Code (Virtual Number) Two-Way SMS
 

@@ -1,8 +1,5 @@
 
----
-layout: default
-title: Your Page Title Here
----
+
 # Overview of Two-Way SMS System
 
 A two-way SMS system allows businesses and users to send and receive SMS through a shared number or shortcode, enabling interactive communication.
